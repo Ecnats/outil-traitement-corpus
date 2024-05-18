@@ -5,6 +5,8 @@ import pandas as pd
 table = pq.read_table('../data/test-00000-of-00001.parquet')
 df = table.to_pandas()
 
+# Export to CSV
+df.to_csv('../data/output.csv', index=False)
 
 # Nombre d'articles à afficher
 nombre_articles = 50
