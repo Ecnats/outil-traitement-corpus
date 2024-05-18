@@ -28,3 +28,7 @@ répondre de façon correct à des questions du à des erreurs d'ambiguité et d
 
 IL y a une sous tâche qui sert à la récapitulation, à la réalisation de résumé de nouveaux articles. 
 Cette tâche est utilisée dans train, validation et test. 
+
+
+## création de mes données
+J'ai scrappé mes données sur le site https://www.iletaitunehistoire.com/genres/contes-et-legendes. Elles ont été enregistrés dans un fichier csv sur lequel j'ai appliqué une analyse morphosyntaxique en utilisant le modèle spaCy. 
