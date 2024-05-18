@@ -1,4 +1,5 @@
 # outil-traitement-corpus
+constance tauliaut 
 
 Tâche à réaliser : Summarization
 
